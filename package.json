@@ -1,0 +1,25 @@
+{
+  "name": "api-valid-chess-move",
+  "version": "1.0.0",
+  "description": "Challenge Full Stack assessment - Valid Chess Moves",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariorodeghiero/api-valid-chess-move.git"
+  },
+  "author": "Mario Antonio A. Rodeghiero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariorodeghiero/api-valid-chess-move/issues"
+  },
+  "homepage": "https://github.com/mariorodeghiero/api-valid-chess-move#readme",
+  "devDependencies": {
+    "eslint": "^5.12.0",
+    "prettier": "^1.15.3",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
