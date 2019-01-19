@@ -4,6 +4,9 @@
   "description": "Challenge Full Stack assessment - Valid Chess Moves",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint --ext .js ./",
+    "precommit": "npm run lint",
+    "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +24,8 @@
     "prettier": "^1.15.3",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
   }
 }
