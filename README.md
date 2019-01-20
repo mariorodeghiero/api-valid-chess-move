@@ -20,6 +20,10 @@ The API calculates possible Knight movements and return them so I can access the
 
 **Note:** Insert "editor.formatOnSave": true into your User Settings in VSCode.
 
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
 ## Author
 
 - [Mário Antônio do Amaral Rodeghiero](https://github.com/mariorodeghiero)
