@@ -1,8 +1,14 @@
 # API - Valid Chess Moves
 
+This api was developed for the App Valid Chess Moves, [more details in this repository.](https://github.com/mariorodeghiero/valid-chess-moves)
+
+The API calculates possible Knight movements and return them so I can access the result in the frontend
+
+- The backend should only accept the Knight position if it’s in Algebraic notation (D4, A5, H8, A1, ...)
+
 ## Built With
 
-- [Heroku](https://firebase.google.com/) - Firebase
+- [Heroku](https://firebase.google.com/) - Heroku
 - [Node.js](https://nodejs.org/en/) - Node.js
 
 ## Style Guide
